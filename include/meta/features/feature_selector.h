@@ -14,6 +14,7 @@
 #include <memory>
 #include <string>
 #include <vector>
+#include <limits>
 
 #include "cpptoml.h"
 #include "meta/config.h"

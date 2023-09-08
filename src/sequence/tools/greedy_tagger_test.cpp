@@ -4,6 +4,7 @@
  */
 
 #include <iostream>
+#include <limits>
 
 #include "cpptoml.h"
 #include "meta/classify/confusion_matrix.h"

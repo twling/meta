@@ -4,6 +4,7 @@
  */
 
 #include <iostream>
+#include <limits>
 
 #include "cpptoml.h"
 #include "meta/hashing/probe_map.h"

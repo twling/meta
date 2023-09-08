@@ -3,6 +3,8 @@
  * @author Sean Massung
  */
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/analyzers/analyzer.h"
 #include "meta/analyzers/filters/all.h"

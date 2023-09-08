@@ -4,6 +4,8 @@
  */
 
 #include <iostream>
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/meta.h"
 #include "meta/lm/diff.h"

@@ -3,6 +3,8 @@
  * @author Sean Massung
  */
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/index/ranker/dirichlet_prior.h"
 #include "meta/index/score_data.h"

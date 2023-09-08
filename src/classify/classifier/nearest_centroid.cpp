@@ -5,6 +5,7 @@
 
 #include <vector>
 #include <unordered_map>
+#include <limits>
 
 #include "cpptoml.h"
 #include "meta/classify/classifier/nearest_centroid.h"

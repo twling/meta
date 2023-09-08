@@ -4,6 +4,7 @@
  */
 
 #include <stdexcept>
+#include <limits>
 
 #include "cpptoml.h"
 #include "meta/index/ranker/dirichlet_prior.h"

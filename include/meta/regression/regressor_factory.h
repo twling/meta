@@ -11,6 +11,7 @@
 #define META_REGRESSION_REGRESSION_FACTORY_H_
 
 #include <istream>
+#include <limits>
 
 #include "cpptoml.h"
 #include "meta/config.h"

@@ -5,6 +5,7 @@
 
 #include <algorithm>
 #include <deque>
+#include <limits>
 
 #include "cpptoml.h"
 #include "meta/analyzers/tokenizers/icu_tokenizer.h"

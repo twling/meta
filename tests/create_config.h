@@ -10,6 +10,8 @@
 #ifndef META_TESTS_CREATE_CONFIG_H_
 #define META_TESTS_CREATE_CONFIG_H_
 
+#include <limits>
+
 #include "cpptoml.h"
 
 namespace meta {

@@ -6,6 +6,8 @@
  * For input files and format, @see http://haselgrove.id.au/wikipedia.htm
  */
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/graph/algorithms/algorithms.h"
 #include "meta/logging/logger.h"

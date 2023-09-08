@@ -3,6 +3,8 @@
  * @author Chase Geigle
  */
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/analyzers/token_stream.h"
 #include "meta/parser/analyzers/tree_analyzer.h"

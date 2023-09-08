@@ -5,6 +5,8 @@
  * This tool builds the vocabulary file for the other word embedding tools.
  */
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/analyzers/all.h"
 #include "meta/analyzers/token_stream.h"

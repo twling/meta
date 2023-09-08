@@ -7,6 +7,8 @@
  * project.
  */
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/classify/multiclass_dataset.h"
 #include "meta/classify/multiclass_dataset_view.h"

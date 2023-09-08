@@ -11,6 +11,8 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/io/filesystem.h"
 

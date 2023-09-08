@@ -10,6 +10,7 @@
 #ifndef META_LIBSVM_PARSER_H_
 #define META_LIBSVM_PARSER_H_
 
+#include <stdexcept>
 #include <string>
 #include <utility>
 #include <vector>

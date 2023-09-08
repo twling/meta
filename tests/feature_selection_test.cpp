@@ -3,6 +3,8 @@
  * @author Sean Massung
  */
 
+#include <limits>
+
 #include "bandit/bandit.h"
 #include "create_config.h"
 #include "meta/classify/multiclass_dataset.h"

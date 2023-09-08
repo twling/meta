@@ -11,6 +11,8 @@
 #ifndef META_MAKE_INDEX_H_
 #define META_MAKE_INDEX_H_
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/caching/all.h"
 #include "meta/config.h"

@@ -8,6 +8,8 @@
 #include <iomanip>
 #include <fstream>
 #include <sstream>
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/index/eval/ir_eval.h"
 #include "meta/util/mapping.h"

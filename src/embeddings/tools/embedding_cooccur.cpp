@@ -7,6 +7,7 @@
  */
 
 #include <deque>
+#include <limits>
 
 #include "cpptoml.h"
 #include "meta/analyzers/analyzer.h"

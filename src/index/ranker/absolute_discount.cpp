@@ -4,6 +4,8 @@
  */
 
 #include <algorithm>
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/index/ranker/absolute_discount.h"
 #include "meta/index/score_data.h"

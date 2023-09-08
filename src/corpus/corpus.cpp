@@ -3,6 +3,8 @@
  * @author Sean Massung
  */
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/corpus/all.h"
 #include "meta/corpus/corpus.h"

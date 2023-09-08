@@ -14,6 +14,7 @@
 #include <cassert>
 #include <cstdint>
 #include <random>
+#include <limits>
 
 #include "hashes/farm_hash.h"
 #include "hashes/metro_hash.h"

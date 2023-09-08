@@ -10,6 +10,8 @@
 #ifndef META_LM_MPH_LANGUAGE_MODEL_H_
 #define META_LM_MPH_LANGUAGE_MODEL_H_
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/config.h"
 #include "meta/lm/lm_state.h"

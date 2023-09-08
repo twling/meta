@@ -11,6 +11,7 @@
 #ifndef META_IO_BINARY_H_
 #define META_IO_BINARY_H_
 
+#include <cstdint>
 #include <array>
 #include <cmath>
 #include <istream>

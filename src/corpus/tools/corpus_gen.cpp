@@ -7,6 +7,8 @@
 #include <string>
 #include <exception>
 #include <algorithm>
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/io/filesystem.h"
 #include "meta/util/printing.h"

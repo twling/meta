@@ -8,6 +8,8 @@
  * (This is mainly for sanity checking.)
  */
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/embeddings/cooccur_iterator.h"
 #include "meta/io/binary.h"

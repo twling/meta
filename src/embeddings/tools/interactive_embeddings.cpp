@@ -11,6 +11,7 @@
 #include <iostream>
 #include <string>
 #include <stdexcept>
+#include <limits>
 
 #include "cpptoml.h"
 #include "meta/embeddings/word_embeddings.h"

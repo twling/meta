@@ -2,6 +2,8 @@
  * @file ngram_pos_analyzer.cpp
  */
 
+#include <limits>
+
 #include <vector>
 #include "cpptoml.h"
 #include "meta/corpus/document.h"

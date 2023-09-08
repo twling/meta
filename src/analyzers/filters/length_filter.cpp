@@ -3,6 +3,8 @@
  * @author Chase Geigle
  */
 
+#include <limits>
+
 #include "cpptoml.h"
 #include "meta/analyzers/filters/length_filter.h"
 #include "meta/utf/utf.h"

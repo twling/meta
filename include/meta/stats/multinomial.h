@@ -9,6 +9,7 @@
 #ifndef META_STATS_MULTINOMIAL_H_
 #define META_STATS_MULTINOMIAL_H_
 
+#include <stdexcept>
 #include <cstdint>
 #include <random>
 

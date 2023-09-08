@@ -3,6 +3,8 @@
  * @author Sean Massung
  */
 
+#include <limits>
+
 #include <cassert>
 #include "cpptoml.h"
 #include "meta/classify/classifier/naive_bayes.h"

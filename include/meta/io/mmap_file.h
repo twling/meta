@@ -10,6 +10,7 @@
 #ifndef META_MMAP_FILE_H_
 #define META_MMAP_FILE_H_
 
+#include <cstdint>
 #include <stdexcept>
 #include <string>
 
